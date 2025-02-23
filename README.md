@@ -18,8 +18,8 @@ Bu proje, Discord sunucularında kullanıcıların destek taleplerini yönetmek 
 ## Kurulum
 1. Bu repository'yi klonlayın:
    ```bash
-   git clone https://github.com/kullanici_adi/repo_adi.git
-   cd repo_adi
+   git clone https://github.com/0veezi/Discord-Ticket-Bot.git
+   cd Discord-Ticket-Bot
    ```
 
 2. Gerekli kütüphaneleri yükleyin:
