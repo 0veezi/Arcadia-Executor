@@ -1,0 +1,8 @@
+discord.py==2.3.2
+python-dotenv==1.0.0
+fastapi==0.109.2
+uvicorn==0.27.1
+sqlalchemy==2.0.27
+aiohttp==3.9.3
+redis==5.0.1
+celery==5.3.6 
